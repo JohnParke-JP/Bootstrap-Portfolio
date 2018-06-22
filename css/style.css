@@ -1,0 +1,69 @@
+.jp-div-logo{
+    background-color:teal;
+}
+
+.jp-h2{
+    color: white;
+}
+
+.jp-background{
+    background: url("../images/background_old_paper_v3.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jp-white-background{
+    background-color: white;
+    opacity: 1.0;
+}
+
+.jp-teal-footer-bar{
+    background-color: teal;
+    opacity: 1.0;
+    color: white;
+    text-align: center;
+    height: 5px;
+}
+
+.jp-gray-footer-bar{
+    background-color: #505050;
+    opacity: 1.0;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
+
+.jp-black-footer-bar{
+    background-color: black;
+    opacity: 1.0;
+    color: white;
+    text-align: center;
+    height: 5px;
+}
+
+.jp-portfolio-pic{
+        width: 100%;
+        height: auto;
+        margin: 10px;
+}
+
+.jp-portfolio-space{
+    width: 100%;
+    height: auto;
+    margin: 0px;
+}
+
+.jp-portfolio-header{
+    top: 190px;
+    width: 320px;
+    height: 40px;
+    background-color: teal;
+    opacity: 1.0;
+    color: white;
+    text-align: center;
+}
+
+/* Uncomment this to help with debugging. */
+.jp-add-dashed-border{
+     /* border-style: dashed; */
+}
